@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'BurbankBigCondensed';
+  src: url('/burbankbigcondensed_black.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+  margin:0;
+  box-sizing: border-box;
+  font-family: 'BurbankBigCondensed', Arial, sans-serif;
+}
