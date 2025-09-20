@@ -44,7 +44,6 @@ function order_scores(){
         }
     }
     user_and_scores.value.sort((a,b)=>b.score - a.score)
-    console.log('Ordered scores:', user_and_scores.value)
 }
 
 watch(list_of_users, (newUsers) => {
