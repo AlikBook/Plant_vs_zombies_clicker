@@ -49,7 +49,7 @@
 <script setup> 
 import Sign_in from './Sign_in.vue';
 import Log_in from './Log_in.vue';
-import Scores from './scores.vue';
+import Scores from './Scores.vue';
 
 import { useStore } from 'vuex';
 import {computed, ref} from "vue"
