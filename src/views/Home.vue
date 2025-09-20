@@ -385,7 +385,6 @@ function load_game(){
     width: 40px;
     height: 40px;
     margin: 0 10px;
-    border-radius: 50%;
 }
 
 .sun_multiplier_button button {
